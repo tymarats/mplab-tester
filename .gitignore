@@ -1,0 +1,9 @@
+*.rlf
+*.sdb
+*.sym
+*.p1
+*.pre
+*.cof
+*.lst
+*.map
+*.obj
