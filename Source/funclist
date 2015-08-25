@@ -1,0 +1,11 @@
+_send_4: CODE, 517 0 44
+_init: CODE, 648 0 42
+i1_print_text: CODE, 770 0 37
+_handle_serial_input: CODE, 416 0 101
+_print_text: CODE, 690 0 41
+_main: CODE, 46 0 370
+_send_8: CODE, 807 0 19
+i1_simple_delay: CODE, 731 0 39
+_simple_delay: CODE, 605 0 43
+i1_send_4: CODE, 561 0 44
+Total: 780
